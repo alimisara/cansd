@@ -1,5 +1,6 @@
 # cansd
-Coupe d'Afrique des Nations en Science de Données
+Coupe d'Afrique des Nations en Science de Données 2025
 
-Ici, vous avez nos différents notebooks des modèles créés pour notre participation à la CANSD 2025 organisé par DataTour
-Les différentes informations et la base de donné sont disponibles ici 
+Mon modèle final retenu pour l'équipe DataStorm
+
+[Certificat](https://drive.google.com/file/d/19mIQ_Nn-P0r-Kyos-o4bs5h7TRihNxtx/view?usp=drive_link)
